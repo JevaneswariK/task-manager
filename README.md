@@ -118,6 +118,6 @@ Name: K Jevaneswari
 
 GitHub: https://github.com/JevaneswariK
 
-LinkedIn: [Your LinkedIn URL]
+LinkedIn: https://www.linkedin.com/in/jevaneswari-k-937a312a0/
 
 
