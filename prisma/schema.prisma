@@ -19,8 +19,5 @@ model Task {
   completed   Boolean  @default(false)
   tag         String?
   priority    String?
-  userId      String   // <-- Add this
   createdAt   DateTime @default(now())
 }
-
-
